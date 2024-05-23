@@ -11,5 +11,4 @@ Virtual DOM এর ব্যাপারে জানার আগে আমর�
 এটা হলো পুরো Browser এ কোন কিছু রেন্ডার হওয়ার প্রসেস। আসলে DOM operation টা slow না এই painting প্রসেসটা slow।
 <br/>
 যখনই আমরা DOM এ কোন কিছু চেঞ্জ করি, Browser কে এই Render Tree টাকে আবার তৈরি করতে হয়। সমস্ত style infromation, DOM node কোথায় কে বসবে তা আবার recalculate করতে হয়। এবং ফাইনালি আবার তা paint করতে হয় তারপর আমরা চেঞ্জটা আমাদের Browser এ দেখতে পাই।
-![Browser Rendering HTML file!](assets/virtual dom/browser render process.drawio.png)
-![Browser Rendering HTML file!](assets/virtual dom/browser render process.drawio.png)
+![Browser Rendering HTML file!](../assets/virtual%20dom/browser%20render%20process.drawio.png)
